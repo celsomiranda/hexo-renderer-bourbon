@@ -20,10 +20,13 @@ bourbon:
   precision: 8
   imagePath: images
   sourceComments: none
-  includePaths: 
-    - ''
   indentedSyntax: false
   omitSourceMapUrl: false
   sourceMapEmbed: false
   sourceMapContents: false
 ```
+
+[Hexo]: http://hexo.io/
+[Bourbon]: http://bourbon.io/
+[node-sass]: https://www.npmjs.com/package/node-sass
+[Sass]: http://sass-lang.com/
