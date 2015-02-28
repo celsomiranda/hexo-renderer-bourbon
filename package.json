@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-bourbon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An up-to-date node-sass wrapper for Hexo that includes Bourbon mixins.",
   "main": "index.js",
   "scripts": {
