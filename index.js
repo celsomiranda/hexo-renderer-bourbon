@@ -4,7 +4,6 @@ var renderer = require('./lib/renderer');
 var assign = require('object-assign');
 
 hexo.config.bourbon = assign({
-  file: data.path,
   imagePath: 'images' ,
   omitSourceMapUrl: false,
   indentedSyntax: false,
