@@ -1,0 +1,31 @@
+{
+  "name": "hexo-renderer-bourbon",
+  "version": "0.0.1",
+  "description": "An up-to-date node-sass wrapper for Hexo that includes Bourbon mixins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/celsomiranda/hexo-renderer-bourbon"
+  },
+  "keywords": [
+    "hexo",
+    "renderer",
+    "hexo-renderer",
+    "sass",
+    "bourbon"
+  ],
+  "author": "Celso Miranda <contacto@celsomiranda.net> (http://celsomiranda.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/celsomiranda/hexo-renderer-bourbon/issues"
+  },
+  "homepage": "https://github.com/celsomiranda/hexo-renderer-bourbon",
+  "dependencies": {
+    "node-bourbon": "^4.2.1-beta1",
+    "node-sass": "^2.0.1",
+    "object-assign": "^2.0.0"
+  }
+}
