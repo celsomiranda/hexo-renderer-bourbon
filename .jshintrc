@@ -8,8 +8,15 @@
   "undef": true,
   "unused": "vars",
   "globals": {
-    "Promise": true,
-    "hexo": true,
-    "data": true
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "after"      : false,
+    "afterEach"  : false,
+    "Promise"    : true,
+    "hexo"       : true,
+    "data"       : true
+
   }
 }
