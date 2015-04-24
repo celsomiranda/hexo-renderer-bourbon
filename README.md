@@ -1,5 +1,10 @@
 # [Sass] renderer for [Hexo] with [Bourbon] support
 
+[![Build Status](https://travis-ci.org/celsomiranda/hexo-renderer-bourbon.svg)](https://travis-ci.org/celsomiranda/hexo-renderer-bourbon)
+[![NPM Version](https://badge.fury.io/js/hexo-renderer-bourbon.svg)](http://badge.fury.io/js/hexo-renderer-bourbon)
+[![NPM Dependencies](https://david-dm.org/celsomiranda/hexo-renderer-bourbon.svg)](https://www.npmjs.com/package/hexo-renderer-bourbon)
+[![Coverage Status](https://coveralls.io/repos/celsomiranda/hexo-renderer-bourbon/badge.svg)](https://coveralls.io/r/celsomiranda/hexo-renderer-bourbon)
+
 An up-to-date [node-sass] wrapper that includes [Bourbon] mixins.
 
 ## Install
