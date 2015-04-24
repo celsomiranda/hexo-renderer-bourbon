@@ -44,6 +44,12 @@ This renderer supports all the options exposed by node-sass.
 #### sourceComments
 `sourceComments` is a `Boolean` flag to determine what debug information is included in the output file.
 
+#### sourceMap
+This must be `true` even for embeded sourcemaps.
+
+#### outFile
+Must put the name of the output css file for sourcemaps to work.
+
 #### sourceMapEmbed
 `sourceMapEmbed` is a `Boolean` flag to determine whether to embed `sourceMappingUrl` as data URI.
 
@@ -61,6 +67,8 @@ bourbon:
   sourceComments: none
   indentedSyntax: false
   omitSourceMapUrl: false
+  sourceMap: false
+  outFile: '',
   sourceMapEmbed: false
   sourceMapContents: false
 ```
