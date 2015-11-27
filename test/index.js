@@ -80,7 +80,7 @@ describe('Hexo-Renderer-Bourbon', function () {
       '  font: 100% Helvetica, sans-serif;',
       '  color: #333; }',
       '',
-      '/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJInNvdXJjZVJvb3QiOiAiLyIsCgkiZmlsZSI6ICJ0ZXN0LmNzcyIsCgkic291cmNlcyI6IFsKCQkic3RkaW4iCgldLAoJInNvdXJjZXNDb250ZW50IjogW10sCgkibWFwcGluZ3MiOiAiQUFHQSxJQUFJLENBQUM7RUFDSCxJQUFJLEVBQUUsSUFBSSxDQUpDLFNBQVMsRUFBRSxVQUFVO0VBS2hDLEtBQUssRUFKUyxJQUFJLEdBRWQiLAoJIm5hbWVzIjogW10KfQ== */'
+      '/*# sourceMappingURL=data:application/json;base64,ewoJInZlcnNpb24iOiAzLAoJInNvdXJjZVJvb3QiOiAiLyIsCgkiZmlsZSI6ICJ0ZXN0LmNzcyIsCgkic291cmNlcyI6IFsKCQkic3RkaW4iCgldLAoJIm1hcHBpbmdzIjogIkFBR0EsSUFBSSxDQUFDO0VBQ0gsSUFBSSxFQUFFLElBQUksQ0FKQyxTQUFTLEVBQUUsVUFBVTtFQUtoQyxLQUFLLEVBSlMsSUFBSSxHQUlNIiwKCSJuYW1lcyI6IFtdCn0= */'
     ].join('\n');
 
     var sassCss = nSass({
